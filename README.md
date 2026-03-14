@@ -1,7 +1,3 @@
-Karena Anda tidak menggunakan Data Test (Excel/CSV), maka README.md harus disesuaikan untuk mencerminkan bahwa proyek ini adalah script-based automation yang mengandalkan Dynamic Locators.
-
-Berikut adalah draf README.md yang sudah saya optimasi untuk kasus Anda:
-
 Automation Bookstore Testing (Katalon Studio)
 Repositori ini berisi proyek automasi pengujian fungsional untuk website Automation Bookstore. Pengujian difokuskan pada validasi fitur filter pencarian dinamis.
 
