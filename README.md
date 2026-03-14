@@ -1,5 +1,5 @@
 Automation Bookstore Testing (Katalon Studio)
-Repositori ini berisi proyek automasi pengujian fungsional untuk website Automation Bookstore. Pengujian difokuskan pada validasi fitur filter pencarian dinamis.
+Repositori ini berisi proyek automasi pengujian fungsional untuk website [Automation Bookstore](https://automationbookstore.dev/). Pengujian difokuskan pada validasi fitur filter pencarian dinamis.
 
 📋 Cakupan Pengujian
 Search by Author: Memvalidasi bahwa aplikasi dapat memfilter dan menampilkan buku berdasarkan nama pengarang secara akurat.
